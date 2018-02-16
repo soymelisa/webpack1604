@@ -1,0 +1,22 @@
+{
+  "name": "nodeverse-db",
+  "version": "1.0.0",
+  "description": "Una simple plataforma IoT - db Module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Node/Nodeverse.git"
+  },
+  "author": "Melisa Pe\u001b[D\u001b[\u001b[\u001b[C\u001b[CPe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Node/Nodeverse/issues"
+  },
+  "homepage": "https://github.com/Node/Nodeverse#readme",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
